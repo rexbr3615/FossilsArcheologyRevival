@@ -1,0 +1,15 @@
+{
+  "itemGroup.fossil_blocks": "Fossils and Archeology Blocks",
+  "itemGroup.fossil_items": "Fossils and Archeology Items",
+  "item.fossil.bio_fossil": "Bio-Fóssil",
+  "item.fossil.tar_fossil": "fóssil De Alcatrão",
+  "item.fossil.relic_scrap": "Sucata de relíquia",
+  "item.fossil.broken_sword": "Espada Antiga Quebrada",
+  "item.fossil.broken_helmet": "Elmo Antigo Quebrado",
+  "item.fossil.ancient_sword": "Espada Antiga",
+  "item.fossil.ancient_helmet": "Capacete Antigo",
+  "item.fossil.dinopedia": "Dinopédia",
+  "item.fossil.spawn_egg_triceratops": "Ovo de Geração de Tricerátopos",
+  "block.fossil.fossil_ore": "Minério Fóssil",
+  "entity.fossil.triceratops": "Triceratops"
+}
